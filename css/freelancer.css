@@ -14,7 +14,7 @@ p.small {
   font-size: 16px;
 }
 a,
-a:hover,
+a:hover{width = "350" height = "270"}
 a:focus,
 a:active,
 a.active {
